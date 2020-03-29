@@ -25,8 +25,8 @@
 
 * What specific financial problem is the company or project trying to solve?
     - EquityZen is solving two problems by creating a market place to trade pre-IPO equity. By creating this online market place, EquityZen allows accredited investors to purchase this equity and creates an early exit strategy for current stakeholders. One of the most burdensome aspects as an individual holding equity in a private business is a lack of liquidity. EquityZen is solving this issue and democratizing the access to private markets. 
+![EquityZen Overview](investors.png)
 
-    ![](investors.png)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
